@@ -4,10 +4,10 @@
 outputpath="/shared/network/"
 
 # location of Expression data on Synapse
-dataSynId="syn8257637"
+dataSynId="syn8369340"
 
 # id of folder on Synapse that network files will go to
-parentId="syn8259323"
+parentId="syn10228787"
 
 # path to error output
 errorOutput="$outputpath/errorLogs"
