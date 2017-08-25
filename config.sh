@@ -4,10 +4,10 @@
 outputpath="/shared/network/"
 
 # location of Expression data on Synapse
-dataSynId="syn10228796"
+dataSynId="yn10468725
 
 # id of folder on Synapse that network files will go to
-parentId="syn10228787"
+parentId="syn10468637"
 
 # path to error output
 errorOutput="$outputpath/errorLogs"
@@ -16,4 +16,4 @@ errorOutput="$outputpath/errorLogs"
 outOutput="$outputpath/outLogs"
 
 # commit message
-versionCommitMessage="testing with CCLE"
+versionCommitMessage="Sanger data"
