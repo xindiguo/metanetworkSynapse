@@ -4,7 +4,7 @@
 outputpath="/shared/network/"
 
 # location of Expression data on Synapse
-dataSynId="yn10468725
+dataSynId="syn10468725"
 
 # id of folder on Synapse that network files will go to
 parentId="syn10468637"
